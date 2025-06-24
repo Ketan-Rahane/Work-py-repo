@@ -23,3 +23,11 @@ subjects = {
 
 s1 = Student("Jay", 21, subjects)
 s1.display_percentage()
+
+
+#Outputs:
+
+Name: Jay
+Roll: 21
+Percentage: 85.0 %
+
